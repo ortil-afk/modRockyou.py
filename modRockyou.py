@@ -1,7 +1,6 @@
 # Python3
 
-'''Modifies rockyou.txt to certain amount of letters!!!
-(this file is also called PassPolicy_word_count.py on the dullspoon)'''
+'''Modifies rockyou.txt to certain amount of letters!!!'''
 
 question = int(input("How many Letters?: "))
 comparison = input("<, =, or >: ")
